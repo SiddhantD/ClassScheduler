@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/siddhant/Music/ClassScheduler/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57317f1b52532258dd0c7a68871551725d225480">
+        <dex dex="/home/siddhant/Music/ClassScheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_713a79a94a4b926f781fbfa63d009f9f002b7c2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/siddhant/Music/ClassScheduler/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/siddhant/Music/ClassScheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e34612e5dd47e3f1c1d5462f83b4c9352c08a21c/classes.dex" />
+    </item>
+
+</items>

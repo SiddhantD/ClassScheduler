@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/siddhant/Music/ClassScheduler/app/build/intermediates/res/merged/debug/layout/listbatches.xml",
+        "source": "/home/siddhant/Music/ClassScheduler/app/src/main/res/layout/listbatches.xml"
+    },
+    {
+        "merged": "/home/siddhant/Music/ClassScheduler/app/build/intermediates/res/merged/debug/layout/addbatch.xml",
+        "source": "/home/siddhant/Music/ClassScheduler/app/src/main/res/layout/addbatch.xml"
+    },
+    {
+        "merged": "/home/siddhant/Music/ClassScheduler/app/build/intermediates/res/merged/debug/layout/listclasses.xml",
+        "source": "/home/siddhant/Music/ClassScheduler/app/src/main/res/layout/listclasses.xml"
+    },
+    {
+        "merged": "/home/siddhant/Music/ClassScheduler/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/siddhant/Music/ClassScheduler/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/siddhant/Music/ClassScheduler/app/build/intermediates/res/merged/debug/layout/batch.xml",
+        "source": "/home/siddhant/Music/ClassScheduler/app/src/main/res/layout/batch.xml"
+    },
+    {
+        "merged": "/home/siddhant/Music/ClassScheduler/app/build/intermediates/res/merged/debug/layout/updateclass.xml",
+        "source": "/home/siddhant/Music/ClassScheduler/app/src/main/res/layout/updateclass.xml"
+    },
+    {
+        "merged": "/home/siddhant/Music/ClassScheduler/app/build/intermediates/res/merged/debug/layout/addclass.xml",
+        "source": "/home/siddhant/Music/ClassScheduler/app/src/main/res/layout/addclass.xml"
+    },
+    {
+        "merged": "/home/siddhant/Music/ClassScheduler/app/build/intermediates/res/merged/debug/layout/updatebatch.xml",
+        "source": "/home/siddhant/Music/ClassScheduler/app/src/main/res/layout/updatebatch.xml"
+    },
+    {
+        "merged": "/home/siddhant/Music/ClassScheduler/app/build/intermediates/res/merged/debug/layout/classrow.xml",
+        "source": "/home/siddhant/Music/ClassScheduler/app/src/main/res/layout/classrow.xml"
+    }
+]
